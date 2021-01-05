@@ -28,7 +28,9 @@ Output: -1
 Explanation: The two people at the party both
 know each other. None of them is a celebrity
 */
-
+/*
+PLEASE BEFORE SEEING THE SOLUTION TRY YOURSELF ON https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1#
+ */
 //Solution
 import java.io.*;
 import java.util.*;
