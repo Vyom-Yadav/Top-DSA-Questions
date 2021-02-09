@@ -7,5 +7,7 @@ For GeeksForGeeks questions: https://git.io/JLbdL
 
 Questions-
 
+The celebrity problem
+
 
 For leetcode questions: https://git.io/JLbFB
