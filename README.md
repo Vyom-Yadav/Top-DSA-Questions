@@ -11,3 +11,9 @@ The celebrity problem
 
 
 For leetcode questions: https://git.io/JLbFB
+
+Questions-
+
+Sliding Window Maximum
+
+Add Two Numbers ( 2+2 = 4 )
