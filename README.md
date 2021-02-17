@@ -5,4 +5,15 @@ I solve problems daily but upload them on the weekend or later :)
 
 For GeeksForGeeks questions: https://git.io/JLbdL
 
+Questions-
+
+The celebrity problem
+
+
 For leetcode questions: https://git.io/JLbFB
+
+Questions-
+
+Sliding Window Maximum
+
+Add Two Numbers ( 2+2 = 4 )
