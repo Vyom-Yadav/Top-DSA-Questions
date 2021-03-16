@@ -23,7 +23,7 @@ The number of nodes in the list is sz.
 0 <= Node.val <= 100
 1 <= n <= sz
  */
-// Before watching solution try on https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+// PLEASE BEFORE SEEING THE SOLUTION TRY YOURSELF ON https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 // Solution
 /**
  * Definition for singly-linked list.
