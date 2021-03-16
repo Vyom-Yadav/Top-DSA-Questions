@@ -21,7 +21,7 @@ The number of nodes in the list is in the range [0, 500].
 -100 <= Node.val <= 100
 0 <= k <= 2 * 109
 */
-// Before watching solution try on https://leetcode.com/problems/rotate-list/
+// PLEASE BEFORE SEEING THE SOLUTION TRY YOURSELF ON https://leetcode.com/problems/rotate-list/
 // Solution
 /**
  * Definition for singly-linked list.
