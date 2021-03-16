@@ -23,7 +23,7 @@ Constraints:
 The number of nodes in the list is in the range [0, 100].
 0 <= Node.val <= 100
 */
-// Before watching solution try on https://leetcode.com/problems/swap-nodes-in-pairs/
+// PLEASE BEFORE SEEING THE SOLUTION TRY YOURSELF ON https://leetcode.com/problems/swap-nodes-in-pairs/
 // Solution
 /**
  * Definition for singly-linked list.
