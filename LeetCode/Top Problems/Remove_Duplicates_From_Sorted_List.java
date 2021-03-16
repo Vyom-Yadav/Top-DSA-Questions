@@ -18,7 +18,7 @@ The number of nodes in the list is in the range [0, 300].
 The list is guaranteed to be sorted in ascending order.
  */
 /*
-Before watching solution try on https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+PLEASE BEFORE SEEING THE SOLUTION TRY YOURSELF ON https://leetcode.com/problems/remove-duplicates-from-sorted-list/
  */
 //Solution
 /**
